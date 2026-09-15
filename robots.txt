@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.timkush.com/sitemap.xml
